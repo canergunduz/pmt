@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # configurations
-username = 'ekrem.gurdal'
-password = '123456'
+username = 'username here'
+password = 'password here'
 project_order = [
     'P-00015-58'
     # , 'P-00026-62'
